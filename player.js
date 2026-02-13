@@ -13,7 +13,7 @@ class Player {
         this.vy = 0;
         this.speed = 3.5;
         this.sprintSpeed = 5.5;
-        this.jumpForce = -15;
+        this.jumpForce = -22;
         this.facing = 1; // 1=right, -1=left
         this.onGround = false;
         this.canDoubleJump = true;
